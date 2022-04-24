@@ -1,5 +1,5 @@
 # Tiktok Share Bot
-some fun i had while making this, partically skidded 
+EZ SHARES
 
 
 [![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/Qoft/Tiktok-Sharebot)
