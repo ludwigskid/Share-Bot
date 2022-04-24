@@ -9,7 +9,7 @@ some fun i had while making this, partically skidded
 
 
 ## Warning
-### 100-1000 threads recommended, if you put any threads over the recommendation, no support will be given
+### 100-1500 threads recommended for best results.
 
 ## Installation
 
